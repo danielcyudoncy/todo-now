@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351748062132",
+    "project_id": "todonow-5c308",
+    "storage_bucket": "todonow-5c308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351748062132:android:119c8cb1a73654959dd0e1",
+        "android_client_info": {
+          "package_name": "com.mycompany.todonow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmDHbApH-ERZSep_YgAognTGGVDxgt7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
